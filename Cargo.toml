@@ -1,0 +1,13 @@
+[package]
+name = "nova-example"
+version = "0.0.0"
+edition = "2021"
+description = "Demonstration of using the Nova library"
+authors = [
+    "cyphersnake <cyphersnake@pm.me>"
+]
+repository = "https://github.com/cyphersnake/nove_example"
+license = "MIT"
+
+[dependencies]
+nova-snark = "0.21.0"
