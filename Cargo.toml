@@ -10,4 +10,6 @@ repository = "https://github.com/cyphersnake/nove_example"
 license = "MIT"
 
 [dependencies]
+bellperson = "0.25.0"
 nova-snark = "0.21.0"
+pasta_curves = "0.5.1"
